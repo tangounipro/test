@@ -1,0 +1,83 @@
+[
+    {
+        "name": "SQL Compare",
+        "description": "description"
+    },
+    {
+        "name": "SQL Data Compare",
+        "description": "description"
+    },
+    {
+        "name": "SQL Source Control",
+        "description": "description"
+    },
+    {
+        "name": "SQL Prompt",
+        "description": "description",
+        "new": true
+    },
+    {
+        "name": "SQL Monitor",
+        "description": "description"
+    },
+    {
+        "name": "OLM Automation",
+        "description": "description"
+    },
+    {
+        "name": "SQL Clone",
+        "description": "description",
+        "new": true
+    },
+    {
+        "name": "SQL Bacvkup",
+        "description": "description"
+    },
+    {
+        "name": "DLM Dashboard",
+        "description": "description",
+        "free": true
+    },
+    {
+        "name": "ReadyRoll",
+        "description": "description"
+    },
+    {
+        "name": "SQL Search",
+        "description": "description",
+        "free": true
+    },
+    {
+        "name": "SQL Doc",
+        "description": "description"
+    },
+    {
+        "name": "SQL Data Generator",
+        "description": "description"
+    },
+    {
+        "name": "SQL Test",
+        "description": "description"
+    },
+    {
+        "name": "SQL Dependency Tracker",
+        "description": "description"
+    },
+    {
+        "name": "SQL Script Manager",
+        "description": "description",
+        "free": true
+    },
+    {
+        "name": "SQL Index Manager",
+        "description": "description"
+    },
+    {
+        "name": "SQL Comparison SDK",
+        "description": "description"
+    },
+    {
+        "name": "SQL Code Guard",
+        "description": "description"
+    }
+]
